@@ -1,5 +1,9 @@
 <div align="center">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Neha1016/Neha1016/main/profile-banner.png.png" width="100%" alt="Neha Chouhan - AI/ML & Data Science">
+</div>
 
+<br>
 # 👋 Hi, I'm Neha Chouhan
 
 ### 🤖 AI/ML Enthusiast | 📊 Data Science Analyst
