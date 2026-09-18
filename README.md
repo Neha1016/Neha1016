@@ -77,15 +77,7 @@ I enjoy working with data, building practical machine learning projects and expl
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛡️ Safe Sense — Women Safety Application
-
-A women safety application focused on **SOS assistance, emergency contacts, location sharing and safety support**.
-
-**Technologies:** Flutter • Dart • Firebase • GPS/Location
-
----
+## 🚀 Projects
 
 ### 🚗 Road Accident Severity Prediction
 
@@ -147,10 +139,7 @@ A Machine Learning project that predicts the likelihood of diabetes based on hea
 
 ## 🌱 Currently Learning
 
-<p align="center">
-
 `DSA with C++` • `Advanced SQL` • `Machine Learning` • `Data Science` • `Generative AI`
-
 </p>
 
 ---
@@ -159,7 +148,7 @@ A Machine Learning project that predicts the likelihood of diabetes based on hea
 
 **AI Engineer | Machine Learning | Data Science | Data Analytics**
 
-I am continuously learning, building projects and improving my technical skills to create practical solutions using **AI and Data Science**.
+Building practical projects and continuously improving my skills in AI, Machine Learning and Data Science.
 
 ---
 ## 🐍 Contribution Snake
