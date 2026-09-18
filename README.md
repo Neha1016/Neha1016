@@ -158,6 +158,17 @@ A Machine Learning project that predicts the likelihood of diabetes based on hea
 I am continuously learning, building projects and improving my technical skills to create practical solutions using **AI and Data Science**.
 
 ---
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neha1016/Neha1016/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neha1016/Neha1016/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Neha1016/Neha1016/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
 
 ## 🌐 Let's Connect
 
