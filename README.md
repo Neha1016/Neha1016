@@ -93,7 +93,14 @@ I enjoy working with data, building practical machine learning projects and expl
 
 🏆 **Internshala Student Partner**
 
+---
+## 💼 Experience
+
 👩‍💻 **Data Analyst Intern — Codec Technologies**
+
+🤖 **AI Intern — iStudio**
+
+🌟 **Internshala Student Partner**
 
 ---
 
