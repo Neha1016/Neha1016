@@ -118,17 +118,6 @@ I enjoy working with data, building practical machine learning projects and expl
 </div>
 
 ---
-## 📈 2026 GitHub Activity
-
-<div align="center">
-
-### 🚀 114+ Pushes in 2026
-
-**Actively coding, learning and building projects throughout 2026.**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha1016&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
 
 ---
 
