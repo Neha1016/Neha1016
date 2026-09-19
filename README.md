@@ -77,24 +77,6 @@ I enjoy working with data, building practical machine learning projects and expl
 
 ---
 
-## 🚀 Projects
-
-### 🚗 Road Accident Severity Prediction
-
-A Machine Learning project that analyzes accident-related data and predicts **accident severity** using data preprocessing, visualization and machine learning techniques.
-
-**Technologies:** Python • Pandas • NumPy • Matplotlib • Scikit-learn
-
----
-
-### 🩺 Diabetes Prediction
-
-A Machine Learning project that predicts the likelihood of diabetes based on health-related input features.
-
-**Technologies:** Python • Pandas • NumPy • Scikit-learn
-
----
-
 ## 📜 Certifications & Achievements
 
 🎓 **AWS Academy Graduate – Cloud Foundations**
@@ -136,11 +118,17 @@ A Machine Learning project that predicts the likelihood of diabetes based on hea
 </div>
 
 ---
+## 📈 2026 GitHub Activity
 
-## 🌱 Currently Learning
+<div align="center">
 
-`DSA with C++` • `Advanced SQL` • `Machine Learning` • `Data Science` • `Generative AI`
-</p>
+### 🚀 114+ Pushes in 2026
+
+**Actively coding, learning and building projects throughout 2026.**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neha1016&theme=tokyo-night&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
